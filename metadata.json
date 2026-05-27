@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise RAG Intelligence Platform",
+  "description": "A production-grade AI-powered Enterprise Assistant executing multi-source RAG query routing, strict role-based access control (RBAC), agentic LangGraph workflow simulation, hybrid search, and security auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
